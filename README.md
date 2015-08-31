@@ -1,0 +1,2 @@
+# ikuro
+itu kutuphane projesi
