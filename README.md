@@ -1,2 +1,2 @@
 # ikuro
-itu kutuphane projesi
+itu kutuphane projesi navigasyon ve haritalama çalışmaları
